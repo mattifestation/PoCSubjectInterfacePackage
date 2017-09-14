@@ -1,0 +1,10 @@
+LIBRARY
+EXPORTS
+	DllRegisterServer   PRIVATE
+	DllUnregisterServer PRIVATE
+	GetLegitMSSignature
+	AutoApproveHash
+	IsMyFileExtension
+	MyPutSignature
+	MyCreateHash
+	MyDelSignature
